@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-100">
       <div className="container mx-auto px-4 py-8">
-        <h1 className="text-3xl font-bold text-center text-gray-900 mb-8">Wingman's Catalog</h1>
+        <h1 className="text-3xl font-bold text-center text-gray-900 mb-8">Wingman's Catalog!</h1>
         <h2 className='text-xl font-medium text-center text-gray-500 mb-7'>Explore a wide range of items at mouth-watering prices!</h2>
         <div className="flex flex-col md:flex-row gap-4 mb-8">
           <div className="flex-grow">
