@@ -3,4 +3,12 @@
 
 ### Instructions for running the app locally
 To run the app locally follow, these steps:-
-- Clone the repository :- `git clone 
+- Clone the repository :- `git clone https://github.com/ndstab/wingman-assignment.git`
+- Install the dependencies :- `npm install`
+- Run the local server :- `npm run dev`
+
+### Login Instructions 
+The app requires no login.
+
+### Vercel Application link
+https://wingman-assignment.vercel.app/
